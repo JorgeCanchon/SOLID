@@ -1,5 +1,5 @@
 # SOLID
-Ejemplos principios SOLID
+*Ejemplos principios SOLID*
 
 Course pluralsight SOLID Principles for C# Developers
 by Steve Smith 
